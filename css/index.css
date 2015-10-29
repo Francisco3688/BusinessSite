@@ -1,0 +1,73 @@
+		/**{
+			border: solid 1px black;
+		}*/
+
+		.row {
+			padding: 0px;
+		}
+
+		.col-md-2{
+			padding:0px;
+			text-align:center;
+			margin-top: 10px;
+			margin-bottom: 15px;
+			font-weight: bold;
+			font-size: 12pt;
+		}
+
+		.item{
+			height: 600px;
+			width: 1000px;
+		}
+
+		.imageedit img{
+			height: 600px;
+			width: 700px;
+			margin-left: 180px;
+		}
+
+
+		.banner{
+			height: 100px;
+			background-color: black;
+			text-align: center;
+		}
+
+		#slide {
+			width: 1000px;
+			margin: 0 auto;
+		}
+
+		h1{
+			color: black;
+		}
+
+		nav {
+
+		}
+
+		nav ul {
+
+		}
+
+		nav ul li{
+			list-style: none;
+			position: relative;
+			border-radius: 25px;
+			color:black;
+		}
+
+		nav ul li:hover {
+			border-radius: 25px;
+			color: white;
+			cursor: pointer;
+			background-color: black;
+			font-size: 18pt;
+			margin-bottom: 10px;
+			text-decoration: none;
+		}
+
+		nav ul div a:hover{
+			text-decoration:none;
+		}
+	

@@ -1,0 +1,236 @@
+/*	*{
+		border: solid 1px black;
+	}*/
+
+	.row {
+		padding: 0px;
+	}
+
+	body{
+
+	}
+
+	.topRow {
+		height: 80px;
+		background-color: black;
+		padding-top: 8px;
+	}
+
+	h1 {
+		color: black;
+		text-align: center;
+		font-weight: bold;
+		font-size: 60pt;
+		text-decoration: underline;
+		}
+
+	.col-md-4 {
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	
+	h2 {
+
+		font-size:20pt;
+		font-family: sans-serif;
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	h3 {
+	
+		font-size:18pt;
+		font-family: sans-serif;
+		font-weight: bold;
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+
+	.img-thumbnail{
+		width:250px;
+		height:250px;
+		border-color: black;
+	}
+
+#popUpBox{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox2{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox3{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox4{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox5{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox6{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox7{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+#popUpBox8{
+	position:absolute;
+	width: 80vw;
+	min-height: 100vh;
+	background-color: black;
+	z-index: 1;
+	margin-left: 120px;
+	margin-top:0px;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+a{
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#overlay {
+}
+
+.button{
+    position: absolute;
+    right: .3em;
+    top: 1%;
+    width: 35px;
+    height: 35px;
+    font-size:18pt;
+    text-align:center;
+    font-weight: bold;
+    color: white;
+    border-radius: 30px;
+    border:solid 2px white;
+    cursor: pointer;
+}
+
+h4 {
+	font-weight: bold;
+	font-family: tahoma;
+	font-size: 22pt;
+	color: white;
+	padding-top: 20px;
+	text-align: right;
+	padding-right: 45px;
+}
+
+.col-md-2 img{
+	float:right;
+	width: 40px;
+	height: 40px;
+	margin-top: -46px;
+}
+
+#menuB {
+	cursor: pointer;
+}
+
+nav {
+
+}
+
+nav ul {
+	border: solid 1px black;
+	background-color: white;
+	opacity: .5;
+	padding-left: 0px;
+}
+
+
+nav ul li {
+	list-style: none;
+	text-align: center;
+	padding-right: 2px;
+	padding-left: 2px;
+	font-weight: bold;
+	color: black;
+	font-family: tahoma;
+	z-index: 1;
+}
+
+nav ul li:hover{
+	background-color: black;
+	color: white;
+	font-size: 16pt;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+nav ul div a:hover{
+			text-decoration:none;
+		}
