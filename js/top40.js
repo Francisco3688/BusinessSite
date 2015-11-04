@@ -11,14 +11,6 @@ $(document).ready(function(){
 		$("#overlay").css("opacity", 1);
 	});
 
-	$("#nav").hide();
-	$("#menuB").click(function(){
-		$("#nav").fadeIn(200);
-		$("#menuB").click(function(){
-			$("#nav").fadeOut(200);
-		});
-	});
-
 	$("#popUpBox2").hide();
 	$("#pop2").click(function(){
 		$("#popUpBox2").fadeIn(1000);
